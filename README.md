@@ -1,4 +1,5 @@
 # meta tags
+A meta tag is an HTML tag that provides information about a page to search engines and users. 
 ```html
 <!-- MS, fb & Whatsapp -->
 
