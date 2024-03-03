@@ -31,3 +31,7 @@ A meta tag is an HTML tag that provides information about a page to search engin
 <!-- Website to visit when clicked in fb or WhatsApp-->
 <meta property="og:url" content="http://www.example.com">
 ```
+## Keywords
+
+* html tags
+* meta tags
