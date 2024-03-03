@@ -1,4 +1,7 @@
-# meta tags
+# Table Of Contents
+* [meta tags](#meta tags)
+
+## meta tags
 A meta tag is an HTML tag that provides information about a page to search engines and users. 
 ```html
 <!-- MS, fb & Whatsapp -->
